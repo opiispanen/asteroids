@@ -4,4 +4,6 @@ I was inspired by The Coding Train's [Coding Challenge #46.1: Asteroids with p5.
 ## The end result
 The end result consists of a reusable classes like the Game class that controls the rendering, events and objects. Also the whole game instance is wrapped in a Promise so different actions may occure depending on the result in the game. Also added a simple UI, ship health and death animations, effects etc.
 
-Also checkout the The Coding Train's [Asteroid Github](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_46_Asteroids).
+## Links
+* The game itself: [Asteroid](https://viixet.com/asteroids)
+* The Coding Train's [Asteroid Github](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_46_Asteroids).
