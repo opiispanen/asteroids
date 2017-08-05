@@ -13,7 +13,7 @@ function callback(result) {
         ui.removeLife();
     }
 
-    total += result.points;
+    total = result.points;
 
     if (lives > 0)
         game = Asteroids(engine, ui, enemies, total).then(callback);
